@@ -42,6 +42,7 @@
 6. [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/).
 7. Основа бота - код из модуля [main.py](https://github.com/netology-code/sqlpy-diplom/blob/main/main.py).
 8. Исходный код в модуле main.py работает. Чтобы запустить бота нужно ввести команду `/start` в переписке с ним.
+9. [Прототип кода](https://github.com/netology-code/sqlpy-diplom/blob/main/guide_bot1.py) из видео
 
 ------
 
