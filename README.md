@@ -42,7 +42,11 @@
 6. [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/).
 7. Основа бота - код из модуля [main.py](https://github.com/netology-code/sqlpy-diplom/blob/main/main.py).
 8. Исходный код в модуле main.py работает. Чтобы запустить бота нужно ввести команду `/start` в переписке с ним.
-9. [Прототип кода](https://github.com/netology-code/sqlpy-diplom/blob/main/guide_bot1.py) из видео. Видео доступно в личном кабинете.
+
+------
+### Тестовый телеграм-бот.
+Чтоб разобраться как работают телеграм-боты, рекомендуем посмотреть видео в ЛК и скачать [простого бота](https://github.com/netology-code/sqlpy-diplom/blob/main/guide_bot1.py) из видео. Видео доступно в личном кабинете.
+На нем вы можете потренироваться и разобраться как всё устроено. После этого уже переходите к заданию по разработке EnglishCard-бота
 
 ------
 
